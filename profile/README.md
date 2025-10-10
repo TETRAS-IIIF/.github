@@ -1,6 +1,6 @@
 ## Hi there ! 
 
-ALl IIIF and Mirador work from Tétras Libre SARL.
+All IIIF and Mirador work from Tétras Libre SARL.
 
 We proposed mirador-multi-user, a IIIF collaborative workspace https://www.mirador-multi-user.com/
 
