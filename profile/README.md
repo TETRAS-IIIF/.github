@@ -14,3 +14,5 @@ Consult our demos :
 - Mirador Multi User, full IIIF workspace based on Mirador : https://app.mirador-multi-user.com/
 
 Consult our [roadmap](https://github.com/TETRAS-IIIF/.github/blob/main/profile/ROADMAP.md)
+
+Part of our work, have been found by Rennes 2 university.
