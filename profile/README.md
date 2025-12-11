@@ -15,4 +15,5 @@ Consult our demos :
 
 Consult our [roadmap](https://github.com/TETRAS-IIIF/.github/blob/main/profile/ROADMAP.md)
 
+We believe in open source and community, we try to publish as many work as possible.
 Part of our work, have been found by Rennes 2 university.
