@@ -7,6 +7,7 @@
    - Find new partners to collaborate around MAE and MMU
 
 - 2026 Q1
+   - Take an active part in the growth of Mirador community 
    - Mirador Video : Submit upstram PR on Mirador viewer : annotation on video support to Mirador, annotation filtering 
    - MAE : Include LLM capability in annotation template
         - Transcription, translation, tagging, targetting ....
