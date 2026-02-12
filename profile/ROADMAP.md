@@ -12,7 +12,7 @@
    - MAE : Include LLM capability in annotation template
         - Transcription, translation, tagging, targetting ....
    - MMU
-        - Provide an integrated developement environment for scholars and IIIF data scientist
+        - Provide an integrated developement environment for scholars and IIIF data scientists
              - Media and manifest management
              - Development environment (Jupyter notebook, Python, VSCode, R ...)
              - Provide computing power on the fly to support researcher.
