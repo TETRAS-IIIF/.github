@@ -13,6 +13,7 @@
         - Transcription, translation, tagging, targetting ....
    - MMU
         - Provide an integrated developement environment for scholars and IIIF data scientists
-             - Media and manifest management
+             - Medias and manifests management
              - Development environment (Jupyter notebook, Python, VSCode, R ...)
+             - Annotation batch post edit capabilities
              - Provide computing power on the fly to support researcher.
